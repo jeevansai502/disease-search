@@ -1,0 +1,44 @@
+//created on: 15 Nov, 2016
+package rules
+
+import com.sample.factObject;
+import com.sample.getInput;
+import com.sample.findApprox;
+import java.util.*;
+import javax.swing.*;
+
+dialect "java"
+
+
+rule "analyzeSymptoms"
+
+    when
+        fo:factObject ()
+    then
+	    getInput.getMatches(fo);
+      end
+
+
+rule "checkInput"
+
+	when
+		i:getInput (inp.size() == 0)
+	then
+		JOptionPane.showMessageDialog(null, "Enter symptoms");
+		System.exit(-1);
+	end
+
+
+rule "printOutput"
+	
+	when
+		fo:factObject ()
+		i:getInput (inp.size() != 0)
+	then
+		findApprox.findApprox(fo);
+	end
+
+	
+
+
+	

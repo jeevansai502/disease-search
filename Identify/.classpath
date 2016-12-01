@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="DROOLS/Drools"/>
+	<classpathentry kind="lib" path="/opt/eclipse/drools-compiler-6.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="/opt/eclipse/plugins/org.eclipse.jdt.core_3.12.0.v20160516-2131.jar"/>
+	<classpathentry kind="lib" path="/opt/eclipse/drools-core-5.3.5.final-test-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

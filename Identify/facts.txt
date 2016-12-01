@@ -1,0 +1,28 @@
+asthma,cough,cardiac arrest,shortness of breath,wheezing
+chicken pox,fever,headache,loss of appetite,rashes,scabs
+measles,common cold,patches in mouth and throat,rashes
+polio,stiffness of neck,fever,loss of head support
+rabies,headache,fever,painful contraction of muscles of throat and chest,choking,fear of water
+influenza,fever,cough,sore throat,running nose,headache,muscular pain,extreme fatigue
+dengue fever,fever,headache,pain behind the eyes,pain in the muscles and joints,bodyache,vomiting
+dengue hemorrhagic fever,pain in abdomen,rashes,bleeding from nose and mounth (or|and) internal organs,vomiting with or without blood,black stools,dry mouth,pale and cold skin,weakness
+jaundice,yellowish discoloration of the white area of the eye and the skin
+convulsion,confusion,drooling,loss of bowel/bladder control,sudden shaking of entire body,uncontrollable muscle spasms,temporary cessation of breathing
+hepatitis,bodyache,loss of appetite,nausea,urine in deep yellow color,yellowish discoloration of the white area of the eye and the skin
+tuberculosis,fever,cough,chest pain,blood comes out with the sputum,weakness
+typhoid,fever,headache,rashes
+cholera,watery stool,muscular pain,dehydration
+leprosy,scabs,deformities of finger and toes,formation of nodules,ulcer,lose sensation
+malaria,headache,nausea,muscular pain,chills,fever,weakness
+amoebiasis,ulcer,abdominal pain,nausea,mucus in stool
+filariasis,fever,swelling in certain parts of body(legs|scrotum|breasts etc)
+diabetes,urine frequently,thirsty and hungry frequently,reduced healing capacity,weakness
+hypertension,high blood pressure
+coronary heart disease,chest pain,nausea,vomiting,sweating
+cancer,thickening in tissues(tounge|breast|uterus etc),irregular bleeding or blood tinged discharge from body openings,sore healing late,change in form of mole or wart,hoarseness in voice,cough,swallowing difficulty
+allergy,sneezing,gasping,running of eyes,irritation of throat or trachea
+
+
+
+
+
